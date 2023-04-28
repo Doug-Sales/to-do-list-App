@@ -1,10 +1,8 @@
 import React, { useState } from "react";
 import Checkbox from 'expo-checkbox';
 import { AntDesign } from '@expo/vector-icons';
-import { Text, View, Pressable, Alert } from "react-native";
+import { Text, View, Pressable } from "react-native";
 import { styles } from "./style";
-
-
 
 
 type Props = {
